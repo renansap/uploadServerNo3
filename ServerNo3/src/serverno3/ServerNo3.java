@@ -50,7 +50,7 @@ public class ServerNo3 {
         }
 
         try {
-            out = new FileOutputStream("C:\\Users\\Ksa\\Documents\\NetBeansProjects\\MortalKombat2\\uploadServerNo1\\src\\arquivos\\novo.txt");
+            out = new FileOutputStream("C:\\Users\\Ksa\\Documents\\NetBeansProjects\\uploadServerNo1\\src\\arquivos\\novo3.txt");
         } catch (FileNotFoundException ex) {
             System.out.println("File not found. ");
         }
